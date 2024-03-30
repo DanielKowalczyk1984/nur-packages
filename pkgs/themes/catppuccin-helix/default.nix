@@ -11,7 +11,7 @@ stdenv.mkDerivation rec {
     owner = "catppuccin";
     repo = "helix";
     rev = "0164c4ca888084df4f511da22c6a0a664b5061d2";
-    hash = "";
+    hash = "sha256-8d+cGlyW0vurrww0vPETCr077JHibUQTpnTUOLjeObs=";
   };
 
   installPhase = ''
