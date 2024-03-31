@@ -25,7 +25,6 @@ stdenv.mkDerivation {
     description = "Soothing pastel theme for Helix";
     homepage = "https://github.com/catppuccin/helix";
     license = licenses.mit;
-    maintainers = with maintainers; [];
     mainProgram = "bat";
     platforms = platforms.all;
   };
