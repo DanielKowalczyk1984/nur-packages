@@ -3,7 +3,7 @@
 , fetchFromGitHub
 }:
 
-stdenv.mkDerivation rec {
+stdenv.mkDerivation {
   pname = "catppuccin-bat";
   version = "unstable-2024-03-30";
 
